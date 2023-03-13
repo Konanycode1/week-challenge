@@ -118,7 +118,7 @@ section{
     height: 37rem;
     background-color: rgba(83, 150, 227, 0.391);
     border-radius: 50px;
-    border: 2px solid rgba(163, 240, 240, 0.618); 
+    border: 2px solid rgba(251, 73, 73, 0.618); 
     display: flex;
     justify-content: center;
     
@@ -126,7 +126,7 @@ section{
 .ecran-2{
     width: 100vw;
     height: 36.5rem;
-    background-color: rgba(16, 61, 112, 0.391);
+    background-color: #2980B9  ;
     border-radius: 50px;
     border: 4px solid black; 
     display: flex;
